@@ -1,13 +1,13 @@
 const posts = [
     {
-        text: 'asd'
+        text: 'dfgg'
     },
     {
-        text: 'qwe'
+        text: 'sfsddgf'
     },
     {
-        text: 'hjk'
-    },
+        text: 'aasad'
+    }
 ];
 
 export default posts;
